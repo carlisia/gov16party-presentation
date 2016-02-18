@@ -1,0 +1,74 @@
+GopherGala 2016 - Bobblehat Project
+Retrospective + Demo
+
+February 17th, 2016
+
+Carlisia Campos
+Software Developer
+@carlisia
+
+
+* What is GopherGala
+
+- http://gophergala.com/
+
+- Make a standalone app in 48 hours (weekend)
+
+- Online, global, competition. Some groups gather at physical spaces.
+
+- You get to vote on the apps
+
+- Prizes
+
+
+* How does it work
+
+- Each team is given a repo under a Gophergala org for that year
+
+- A Slack team account is created for chat
+
+- A channel for people who are looking to form teams
+
+- Finding a team: as easy as showing up on Slack
+
+- Rule: you can do all planning and sketching you want before hand, just NO implementation
+
+- Afterwards your repo is transferred to you with all stars and fork activity
+
+
+* My experience - the not so great
+
+- Late to the game
+
+- Plan was to lurk, but was invited to join a team two days before
+
+- Invited Ravi, worked out great since he also had the necessary HW
+
+- Spend 24 of the 48 hour to find out the HW was busted
+
+* My experience - the awesome
+
+- Had been wanting to play with the raspberry pi for a long time
+
+- In 2 days, learned to setup a pi and run code on it
+
+- An opportunity improve my Go proficiency
+
+- Great working with new people
+
+- Easy to do once every year
+
+
+* Demo time
+
+.image images/bobblehat.svg
+
+.link https://github.com/nathany/bobblehat
+
+  A Go library for Raspberry Pi HATs (Hardware Attached on Top), starting with the Sense HAT.
+
+Team:
+Carlisia Campos, Developer, California, U.S.
+Nathan Youngman, Developer, Alberta, Canada
+Olga Shalakhina, Illustrator, Ukraine
+Ravi Sastryk, Developer, California, U.S.
